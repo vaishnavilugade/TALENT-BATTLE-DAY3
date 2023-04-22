@@ -1,5 +1,6 @@
 // Write a program to identify of the a number is positive or negative.
 import java.util.*;
+
 class Number{
 	public static void main(String[] args){
 		Scanner sc=new Scanner(System.in);
